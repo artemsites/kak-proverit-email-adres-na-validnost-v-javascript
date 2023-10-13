@@ -1,0 +1,1 @@
+# Оригинальная статья со ссылками находится на [practical-web.ru](https://practical-web.ru/javascript/kak-proverit-vse-input-type-email-na-validnost-v-javascript)  
